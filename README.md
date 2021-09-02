@@ -15,7 +15,8 @@ A project which easily handle employee data with mysql database by performing CR
 
 # Application Flow:
    Browser->Employee Controller->Employee Service->Employee Repository->MYSQL
-   
+   ![WhatsApp Image 2021-09-02 at 12 09 55 PM](https://user-images.githubusercontent.com/77242981/131796872-bb56cfbf-da5c-4e34-bb81-3f3f6af4e488.jpeg)
+
 
  
  
