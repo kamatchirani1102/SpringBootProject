@@ -24,6 +24,8 @@ A project which easily handle employee data with mysql database by performing CR
 ![page](https://user-images.githubusercontent.com/77242981/131798810-a073d962-f2f2-4ad8-ad84-acaf474a82d5.jpeg)
 
 ![page1](https://user-images.githubusercontent.com/77242981/131798829-a92bffea-6943-4492-8182-54398e52c9d1.jpeg)
+
+![page2](https://user-images.githubusercontent.com/77242981/131798846-8f98eb5d-a361-4c12-8e39-e76f4ef146bf.jpeg)
     
    
      
